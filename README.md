@@ -13,6 +13,7 @@ This tool downloads YouTube videos in the highest available quality and merges a
 ---
 
 ## 🛠 Requirements
+also this is open source so no copyrights ;)
 
 Before running the script, install:
 
@@ -23,3 +24,4 @@ Download from: https://www.python.org/
 Install via pip:
 ```bash
 pip install yt-dlp
+
